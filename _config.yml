@@ -6,7 +6,7 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Forever Jekyll
+title: The Personal Homepage of Aizhana Khasanova
 
 # Short bio or description (displayed in the header)
 description: A simple, elegant and full featured Jekyll theme
@@ -18,7 +18,7 @@ avatar: /assets/image/avatar.png
 # Flags below are optional
 #
 
-# Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
+# Your website URL (e.g. https://Ai2023.github.io or https://Ai2023.github.io)
 # Used for Sitemap.xml and your RSS feed
 url: https://forever-jekyll.github.io
 
