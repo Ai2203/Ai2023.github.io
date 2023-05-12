@@ -1,6 +1,8 @@
+---
 layout: post
 title: Using Openrefine for data restructuring
 categories: [openrefine, reflexion]
+---
 
 # What Openrefine is
 Openrefine is a web-based tool that helps working with unstructured data: cleaning it, changing its formats and making it more convenient to use for the researcher. 
