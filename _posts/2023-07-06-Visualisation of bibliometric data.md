@@ -21,13 +21,13 @@ To analyze the publications of the journal, I decided to focus on its meta-data:
 The web-site of the publisher of the Journal allows for the option to download citations for journal articles. 
 ![alt text][1]
 
-[1]: https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/1.png "1"
+[1]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/1.png "1")
 
 ## Adding the meta-data into citation manager
 
 ![alt text][2]
 
-[2]: https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/2.png "2"
+[2]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/2.png "2")
 
 ## Analysing the data
 To do the analysis of the data, I used VOS viewer tool. It is a tool that visualises bibliometric networks.
@@ -41,17 +41,17 @@ Then the application runs the analysis and produces a map (see examples).
 In this case I chose to see all the terms appearing in titles and abstracts, which resulted in a huge amount of items, many of which are not helpful.
 ![alt text][3]
 
-[3]: https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/3.png "3"
+[3]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/3.png "3")
 
 ### Example 2.
 So I saturated the amount of items further (choosing to show only the items that occur more than once).
 ![alt text][4]
 
-[4]: https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/4.png "4"
+[4]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/4.png "4")
 
 ![alt text][5]
 
-[5]: https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/5.png "5"
+[5]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/5.png "5")
 
 This example shows clusters of topics: one of them is circled around affiliation, another around coping. There is also a cluster of topics dealing with motivation, existence, and transcendence; and some smaller clusters such as the one about religious identity in adolescents.
 The overlay visualisation also shows years in which certain themes appear. For instance, topics of religiousity of adolescents have emerged in more recent years, while the analysis of religious affiliation and its relation to other spheres of life has been going on for a few years.
