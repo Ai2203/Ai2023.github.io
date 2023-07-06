@@ -24,9 +24,7 @@ The [web-site](https://www.tandfonline.com/loi/hjpr20) of the publisher of the J
 
 
 ## Adding the meta-data into citation manager
-
-![1](https://github.com/Ai2203/Ai2203.github.io/assets/131348177/25b3cb45-9931-4fa4-ba8a-b731a6dccf79")
-
+![2](https://github.com/Ai2203/Ai2203.github.io/assets/131348177/a7fbd2f7-16d7-4afa-bb24-03b67aea7aee")
 
 ## Analysing the data
 To do the analysis of the data, I used VOS viewer [tool](https://www.vosviewer.com). It is a tool that visualises bibliometric networks.
