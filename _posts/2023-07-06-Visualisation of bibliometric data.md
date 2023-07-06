@@ -22,8 +22,10 @@ The web-site of the publisher of the Journal allows for the option to download c
 ![alt text][1]
 
 [1]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/1.png "1")
+![1 1](https://github.com/Ai2203/Ai2203.github.io/assets/131348177/c4dc607b-9ddd-4b46-a7d6-5038d47fdc51)
 
 ## Adding the meta-data into citation manager
+
 
 ![alt text][2]
 
