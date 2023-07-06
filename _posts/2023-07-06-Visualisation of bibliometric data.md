@@ -10,7 +10,7 @@ so I decided that I need to understand the themes that have been raised and anal
 health and psychological benefits of rituals, on the explanation of cognitive and emotional mechanisms of rituals, as well as psychological effects of rituals. 
 But in order to get a more general overview of how the field has been developing I needed to look at more data and summarise it, which would take me a lot of time if I were to do it manually. 
 
-# The idea
+# The idea 
 So I decided to look into scientific journals on psychology of religion and analyse what themes the articles in the journals have been covering in the last decade. 
 I found "The International Journal for the Psychology of Religion"  which is devoted to psychological studies of religion: religious processes and phenomena in various religious traditions. 
 The journal was first published in 2003 and since then produces 4 issues each year. 
