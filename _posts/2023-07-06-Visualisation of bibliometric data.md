@@ -19,17 +19,14 @@ To analyze the publications of the journal, I decided to focus on its meta-data:
 # The process
 ## Retrieving the meta-data
 The web-site of the publisher of the Journal allows for the option to download citations for journal articles. 
-![alt text][1]
 
-[1]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/1.png "1")
-![1 1](https://github.com/Ai2203/Ai2203.github.io/assets/131348177/c4dc607b-9ddd-4b46-a7d6-5038d47fdc51)
+<img width="787" alt="1" src="https://github.com/Ai2203/Ai2203.github.io/assets/131348177/f1408fac-0cd6-4ec5-9fe7-ddd041200106">
+
 
 ## Adding the meta-data into citation manager
 
+<img width="959" alt="2" src="https://github.com/Ai2203/Ai2203.github.io/assets/131348177/25b3cb45-9931-4fa4-ba8a-b731a6dccf79">
 
-![alt text][2]
-
-[2]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/2.png "2")
 
 ## Analysing the data
 To do the analysis of the data, I used VOS viewer tool. It is a tool that visualises bibliometric networks.
@@ -41,19 +38,14 @@ so it is needed to go through them and un-check the ones that are particularly i
 Then the application runs the analysis and produces a map (see examples). 
 ### Example 1. 
 In this case I chose to see all the terms appearing in titles and abstracts, which resulted in a huge amount of items, many of which are not helpful.
-![alt text][3]
-
-[3]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/3.png "3")
+![3](https://github.com/Ai2203/Ai2203.github.io/assets/131348177/3a4ed0f1-9c5e-49d6-bd58-e05afe1b95ee)
 
 ### Example 2.
 So I saturated the amount of items further (choosing to show only the items that occur more than once).
-![alt text][4]
 
-[4]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/4.png "4")
+![4](https://github.com/Ai2203/Ai2203.github.io/assets/131348177/65bc3162-0738-45d4-86e6-6406a1742a24)
 
-![alt text][5]
-
-[5]: (https://github.com/Ai2203/Ai2203.github.io/blob/main/assets/image/5.png "5")
+![5](https://github.com/Ai2203/Ai2203.github.io/assets/131348177/b3378844-2d7f-4982-952e-c528bf31c19b)
 
 This example shows clusters of topics: one of them is circled around affiliation, another around coping. There is also a cluster of topics dealing with motivation, existence, and transcendence; and some smaller clusters such as the one about religious identity in adolescents.
 The overlay visualisation also shows years in which certain themes appear. For instance, topics of religiousity of adolescents have emerged in more recent years, while the analysis of religious affiliation and its relation to other spheres of life has been going on for a few years.
