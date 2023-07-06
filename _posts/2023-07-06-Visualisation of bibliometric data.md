@@ -25,7 +25,7 @@ The [web-site](https://www.tandfonline.com/loi/hjpr20) of the publisher of the J
 
 ## Adding the meta-data into citation manager
 
-![1] (https://github.com/Ai2203/Ai2203.github.io/assets/131348177/25b3cb45-9931-4fa4-ba8a-b731a6dccf79")
+![1](https://github.com/Ai2203/Ai2203.github.io/assets/131348177/25b3cb45-9931-4fa4-ba8a-b731a6dccf79")
 
 
 ## Analysing the data
