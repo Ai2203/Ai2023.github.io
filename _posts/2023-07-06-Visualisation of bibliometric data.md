@@ -24,10 +24,11 @@ The [web-site](https://www.tandfonline.com/loi/hjpr20) of the publisher of the J
 
 
 ## Adding the meta-data into citation manager
-![2](https://github.com/Ai2203/Ai2203.github.io/assets/131348177/a7fbd2f7-16d7-4afa-bb24-03b67aea7aee")
+<img width="959" alt="2" src="https://github.com/Ai2203/Ai2203.github.io/assets/131348177/4ae8d499-5df9-48f7-8742-46e9bc4d21d5">
 
 ## Analysing the data
 To do the analysis of the data, I used VOS viewer [tool](https://www.vosviewer.com). It is a tool that visualises bibliometric networks.
+
 VOS Viewer can use various types of data for analysis. I chose to analyse text data, which I uploaded to VOS viewer from the citation manager. 
 The tool offers different configurations for the analysis. Since I wanted to analyse themes and topics emerging in the journal articles, I chose to look at titles and abstracts and to see co-occurence of items. 
 Later, the application offers a list of items (words) that appear in the titles and abstracts more than once (that configuration can be changed, as a result of which it is possible to have more or fewer items). Not all the items appear meaningful,
