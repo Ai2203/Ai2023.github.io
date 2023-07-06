@@ -25,7 +25,7 @@ The web-site of the publisher of the Journal allows for the option to download c
 
 ## Adding the meta-data into citation manager
 
-<img width="959" alt="2" src="https://github.com/Ai2203/Ai2203.github.io/assets/131348177/25b3cb45-9931-4fa4-ba8a-b731a6dccf79">
+![1] (https://github.com/Ai2203/Ai2203.github.io/assets/131348177/25b3cb45-9931-4fa4-ba8a-b731a6dccf79")
 
 
 ## Analysing the data
