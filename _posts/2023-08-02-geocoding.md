@@ -4,7 +4,6 @@ title: Geocoding
 categories: [openrefine, palladio]
 ---
 
-# Geocoding
 ## What geocoding is
 Geocoding is a process, though which a geographical location, e.g. and address, is transformed into coordinates, which can be used for creating maps. 
 It is helpful in visualising a list of geographical locations in relation to each other. For research such a tool can be useful, when the question lies with the location of certain 
