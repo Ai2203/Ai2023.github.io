@@ -3,8 +3,6 @@ layout: post
 title: Network Analysis
 categories: [openrefine, palladio]
 ---
-# Network Analysis
-
 ## What network analysis is
 Netwok analysis is a useful method of looking at data and connections between entities. The visualisation of networks helps to understand the links between topics, people, or organisations. 
 
